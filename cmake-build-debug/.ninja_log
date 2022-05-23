@@ -1,0 +1,19 @@
+# ninja log v5
+0	745	6749432675352422	CMakeFiles/Second_3.dir/main.cpp.obj	2aa861a86b7bbc0a
+748	1067	6749432678575177	Second_3.exe	c9ae7c0cd3fec329
+9	803	6749432863440851	CMakeFiles/Second_3.dir/main.cpp.obj	2aa861a86b7bbc0a
+804	1002	6749432865461003	Second_3.exe	c9ae7c0cd3fec329
+8	613	6749434337927474	CMakeFiles/Second_3.dir/main.cpp.obj	2aa861a86b7bbc0a
+614	814	6749434339935975	Second_3.exe	c9ae7c0cd3fec329
+5	539	6749435198364403	CMakeFiles/Second_3.dir/main.cpp.obj	2aa861a86b7bbc0a
+540	746	6749435200464870	Second_3.exe	c9ae7c0cd3fec329
+14	1165	6749839121078938	CMakeFiles/Second_3.dir/main.cpp.obj	2aa861a86b7bbc0a
+1166	1562	6749839125112923	Second_3.exe	c9ae7c0cd3fec329
+18	1012	6749917090771655	CMakeFiles/Second_3.dir/main.cpp.obj	2aa861a86b7bbc0a
+1014	1493	6749917095776430	Second_3.exe	c9ae7c0cd3fec329
+7	949	6749918593322571	CMakeFiles/Second_3.dir/main.cpp.obj	2aa861a86b7bbc0a
+950	1272	6749918596635207	Second_3.exe	c9ae7c0cd3fec329
+8	803	6749922027201325	CMakeFiles/Second_3.dir/main.cpp.obj	2aa861a86b7bbc0a
+803	1115	6749922030373631	Second_3.exe	c9ae7c0cd3fec329
+10	898	6749922174371483	CMakeFiles/Second_3.dir/main.cpp.obj	2aa861a86b7bbc0a
+900	1291	6749922178318752	Second_3.exe	c9ae7c0cd3fec329
